@@ -1,5 +1,9 @@
-## Praval Kollipara Codes
+## Praval Kollipara's First CS193 Homework
 
+# List of my favorite things about CS193:
+- I look forward to learning more about navigating GitHub.
+- There are many niche parts of coding that I want to learn about like Terminal.
+- I hope to learn way I can improve my programming skills. 
 
 ### Markdown
 
